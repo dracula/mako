@@ -1,4 +1,4 @@
-### [X](http://link-to-x.com)
+### [Mako](https://github.com/emersion/mako/)
 
 #### Install using Git
 
