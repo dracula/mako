@@ -1,20 +1,20 @@
-# Dracula for [X](http://link-to-x.com)
+# Dracula for [Mako](https://github.com/emersion/mako/)
 
-> A dark theme for [X](http://link-to-x.com).
+> A dark theme for [Mako](https://github.com/emersion/mako/).
 
 ![Screenshot](./screenshot.png)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/x](https://draculatheme.com/x).
+All instructions can be found at [draculatheme.com/mako](https://draculatheme.com/mako).
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/mako/graphs/contributors).
 
-[![Zeno Rocha](https://github.com/zenorocha.png?size=100)](https://github.com/zenorocha) |
+[![karl37](https://github.com/karl37.png?size=100)](https://github.com/karl37) |
 --- |
-[Zeno Rocha](https://github.com/zenorocha) |
+[karl37](https://github.com/karl37) |
 
 ## License
 
